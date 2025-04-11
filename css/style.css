@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -13,7 +17,7 @@ body {
   }
   
   .bgfundo {
-    background: url(https://placehold.co/1920x1080) no-repeat center/cover;
+    background: url(../img/Design\ sem\ nome.png) no-repeat center/cover;
   
     /*background-color: blue;
        background-image: url(https://placehold.co/1920x1080);
