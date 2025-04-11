@@ -7,7 +7,7 @@ Bem vindo ao repositório da pizzaria! Um site fictício desenvolvido para fins 
 
 ---
 
-## 📋👹  Descrição
+## 📋😰  Descrição
 O site da "pizzaria", simula a presença online de uma pizzaria fictícia, com seções informativas, cardápio visual, galeria de fotos, localização e formas de contato.
 
 Este projeto foi desenvolvido com foco em:
@@ -17,8 +17,9 @@ Este projeto foi desenvolvido com foco em:
 - Layouts responsivos para diferentes tamanhos de tela
 - Organização visual e intuitiva para o usuário
 
+---
 
-### 🛠️🤦 Tecnologias Utilizadas
+### 🛠️🤼‍♂️ Tecnologias Utilizadas
 
 
 - HTML5
